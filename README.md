@@ -2,11 +2,13 @@
 
 ##
 
-```markdown
+# Overview
+
 # GPA Calculator
 
 This Python script calculates your new GPA based on your current GPA, total credits, the grade you received in a new course, and the credit hours of the new course. It also shows how much your GPA will increase or drop after adding the new grade.
 
+```markdown
 ## Requirements
 
 Before running the script, make sure you have Python 3 installed on your machine. You can check your Python version by running:
@@ -55,10 +57,15 @@ Please note that the grade input is **case-sensitive**. For example, entering `a
 
 ```
 Enter your current GPA (0.0 - 4.0): 3.5
+
 Enter your total credit hours: 60
+
 Enter the new grade (A, A-, B+, B, B-, C+, C, C-, D, F): A
+
 Enter the credit hours for the new class: 3
+
 Your new GPA will be: 3.57
+
 Your GPA will increase by: 0.07 points
 ```
 
