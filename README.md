@@ -1,7 +1,3 @@
-# CollegeCalculator
-
-##
-
 # Overview
 
 # GPA Calculator
